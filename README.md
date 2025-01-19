@@ -2,6 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/square/tpl-oss-js/blob/main/LICENSE)
 [![CI](https://github.com/square/web-payments-quickstart/actions/workflows/ci.yml/badge.svg)](https://github.com/square/web-payments-quickstart/actions/workflows/ci.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fweb-payments-quickstart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fweb-payments-quickstart?ref=badge_shield)
 
 Quickstart for using Square's Web Payments SDK
 
@@ -124,3 +125,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fweb-payments-quickstart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fweb-payments-quickstart?ref=badge_large)
